@@ -23,7 +23,7 @@ date_end:
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: ''
+publishDate: '2023-07-10T15:00:00Z'
 
 authors: [Dong Liang (York University)]
 tags: []
