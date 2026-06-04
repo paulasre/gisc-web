@@ -1,0 +1,45 @@
+---
+title: Analysis and Preconditioning of a Probabilistic Domain Decomposition Algorithm
+  for Elliptic Boundary Value Problems
+authors:
+- F. Bernal
+- J. Morón-Vidal
+date: '2025-01-01'
+publishDate: '2026-06-02T08:47:58.309267Z'
+publication_types:
+- article-journal
+publication: '*Journal of Scientific Computing*'
+doi: 10.1007/s10915-025-03043-4
+abstract: We perform a rigorous numerical analysis of the PDDSparse algorithm [Bernal,
+  Morón-Vidal & Acebrón, Comp.Math.& App. 146 (2023)] for domain decomposition of
+  partial differential equations. PDDSparse is a novel, recently introduced parallelisation
+  paradigm for solving large-scale elliptic boundary value problems on supercomputers,
+  which can be described as a Feynman-Kac formula for domain decomposition. At its
+  core lies a linear sparse system for the solutions on the interfaces, whose entries
+  can be generated via Monte Carlo simulations. The (slightly random) system matrix,
+  G~(ω), can be thought of as equivalent to the Schur complement of the stiffness
+  matrix in standard substructuring domain decomposition. Asymptotically, G~(ω) is
+  shown to be near a nonsingular M-matrix G, i.e. G~(ω)+E=G where ||E||/||G|| is small.
+  Combining stochastic calculus and matrix algebra, we prove that G is stable in the
+  sense that its condition number grows moderately with respect to the discretisation
+  parameters of the PDE (nodes and subdomains). This is experimentally confirmed with
+  examples. Furthermore, the rich algebraic structure of the stylised matrix G paves
+  the way for a tailored preconditioner to the numerically feasible matrix G~(ω).
+  Specifically, the truncated Neumann series of G-1 is augmented with an incomplete
+  Arnoldi procedure, for a well behaved approximation to G~-1(ω). The preconditioner
+  is fast to set up and to run, parallelisable, and efficient, despite the fact that
+  G~(ω) is indefinite and asymmetric. These findings are again supported by numerical
+  evidence. Summing up, this paper puts the PDDSparse algorithm on a sound theoretical
+  footing, and equips it with a very promising preconditioning scheme. Both of them
+  were prerequisites to successfully tackle, in future work, the massively parallel
+  simulations that PDDSparse is intended for. © The Author(s), under exclusive licence
+  to Springer Science+Business Media, LLC, part of Springer Nature 2025.
+tags:
+- Computation theory; Differentiation (calculus); Intelligent systems; Monte Carlo
+  methods; Number theory; Numerical methods; Operations research; Partial differential
+  equations; Stiffness; 
+  
+links:
+- name: URL
+  url: https://www.scopus.com/pages/publications/105015071914?origin=resultslist
+---
