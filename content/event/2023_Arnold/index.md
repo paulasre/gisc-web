@@ -22,7 +22,7 @@ date_end:
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: ''
+publishDate: '2023-05-24T11:00:00Z'
 
 authors: [Arnold D. Kim (U.C. Merced)]
 tags: []
