@@ -39,13 +39,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:alberto.antonioni@uc3m.es'
+    link: 'mailto:anxo@math.uc3m.es'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=SRjHASMAAAAJ
+    link: https://scholar.google.com/citations?user=4a3L2hEAAAAJ&hl=en
   - icon: orcid
     icon_pack: fab
-    link: https://orcid.org/0000-0002-5788-3348
+    link: https://orcid.org/0000-0003-1874-2881
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
