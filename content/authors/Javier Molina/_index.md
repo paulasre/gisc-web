@@ -42,10 +42,10 @@ social:
     link: 'mailto:jamolina@pa.uc3m.es'
   - icon: google-scholar
     icon_pack: ai
-    link: -
+    link: 
   - icon: orcid
     icon_pack: fab
-    link: "https://orcid.org/0009-0006-1789-7741"
+    link: https://orcid.org/0009-0006-1789-7741
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
