@@ -38,7 +38,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:pilar.guerrero@uc3m.es
+    link: 'mailto:pilar.guerrero@uc3m.es'
   - icon: google-scholar
     icon_pack: ai
     link: https://shorturl.at/hhl39
