@@ -1,0 +1,19 @@
+#about .avatar,
+#about .avatar-circle,
+#about .avatar-square {
+  width: 220px !important;
+  height: auto !important;
+  max-width: 220px !important;
+  border-radius: 0 !important;
+}
+
+#about .avatar img,
+#about img.avatar,
+#about .avatar-circle img,
+#about .avatar-square img {
+  width: 220px !important;
+  height: auto !important;
+  max-width: 220px !important;
+  object-fit: contain !important;
+  border-radius: 0 !important;
+}
