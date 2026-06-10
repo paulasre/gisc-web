@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Numerical Methods and Applications
+title: Grupo Interdisciplinar de Sistemas Complejos
 
 # Full Name (for SEO)
 first_name: 
@@ -58,5 +58,5 @@ user_groups:
 
 ---
 
-The research group **Numerical Methods and Applications (NuMA)** at UC3M focuses on developing, analyzing, and implementing numerical methods to address challenges at the intersection of mathematics, science/engineering, and high-performance scientific computing. 
+The **Complex Systems Interdisciplinary Group (GISC)** is a team of over 20 researchers actively engaged in a wide variety of research topics in statistical mechanics, nonlinear dynamics, theoretical biology, evolution, social and economic systems, and game theory.
 
