@@ -53,39 +53,22 @@ sections:
       view: citation
 
 
-  - block: collection
-    id: posts
-    content:
-      title: Recent & Upcoming Seminars
-      subtitle: ''
-      text: 
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - event
-        author: ""
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      # Choose a listing view
-      view: 2
-      # Choose single or dual column layout
-      columns: '2'
-
+  - block: markdown
+  id: posts
+  content:
+    title: Seminars
+    subtitle: ''
+    text: |
+      <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%; overflow: hidden;">
+        <iframe
+          src="https://calendar.google.com/calendar/embed?src=ma8425dntgta1ajssm1p27ic50%40group.calendar.google.com&ctz=Europe%2FMadrid&mode=AGENDA"
+          style="border: 0; position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          scrolling="no">
+        </iframe>
+      </div>
+  design:
+    columns: '1'
 
   - block: collection
     id: projects
