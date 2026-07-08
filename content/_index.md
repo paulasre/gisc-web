@@ -53,7 +53,7 @@ sections:
       view: citation
 
 
-  - block: markdown
+- block: markdown
   id: posts
   content:
     title: Seminars
