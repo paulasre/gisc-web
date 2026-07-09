@@ -25,12 +25,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-  - Write Something
-  - Write Something
-  - Write Something
-  - Write Something
-
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -62,4 +56,8 @@ user_groups:
 
 ---
 
-Anxo Sánchez... (write something) 
+PhD in Theoretical Physics from Universidad Complutense de Madrid, he is Full Professor of Applied Mathematics at Universidad Carlos III de Madrid, founder of GISC, and associated researcher at BIFI, Universidad de Zaragoza. His work applies complex-systems physics to social and biological sciences, with major contributions to cooperation on networks, Dunbar circles, social norms, phase transitions, and interdisciplinary applications in economics, ecology, condensed matter physics and computer science. 
+
+He has led 21 research projects funded by European, national, regional and private institutions, collaborated with companies including Repsol and Siemens-Gamesa, and co-founded Kampal Data Solutions. He is active in Open Science and Citizen Science, and serves in leading roles in the Complex Systems Society, Fundación COTEC and Fundación Sicómoro.
+
+Full info at https://www.anxosanchez.eu
