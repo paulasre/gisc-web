@@ -26,10 +26,10 @@ organizations:
 bio: 
 
 interests:
-  - Write Something
-  - Write Something
-  - Write Something
-  - Write Something
+  -Complex systems and network science
+  -Evolutionary game theory and cooperation
+  -Social norms and collective behaviour
+  -Mathematical and computational modelling
 
 
 # Social/Academic Networking
@@ -62,4 +62,8 @@ user_groups:
 
 ---
 
-Alberto antonioni... (write something) 
+Alberto Antonioni received the PhD degree in Information Systems from the University of Lausanne (Switzerland) and the PhD degree in Mathematical Engineering from Universidad Carlos III de Madrid (Spain), in 2015. He previously received the Bachelor’s and Master’s degrees in Mathematics from the University of Turin (Italy).
+
+He has held postdoctoral research positions at the Institute for Biocomputation and Physics of Complex Systems, University of Zaragoza, and at University College London, and has been awarded several competitive fellowships, including fellowships from the Swiss National Science Foundation and the Juan de la Cierva programme.
+
+He is currently an Associate Professor at Universidad Carlos III de Madrid (Spain), in the Department of Mathematics. He currently serves as Vice-President of Complexity Next Gen, Founder and Director of Complexity72h, Secretary of the Spanish Society of Complex Systems – CS³, and President of the Conference on Complex Systems Steering Committee.
