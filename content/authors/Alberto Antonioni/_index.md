@@ -61,4 +61,9 @@ user_groups:
   - Members
 
 ---
-hheloooo
+
+  Alberto Antonioni received the PhD degree in Information Systems from the [University of Lausanne](https://www.unil.ch/unil/en/home.html) (Switzerland) and the PhD degree in Mathematical Engineering from Universidad Carlos III de Madrid (Spain), in 2015. He previously received the Bachelor’s and Master’s degrees in Mathematics from the [University of Turin](https://en.unito.it/) (Italy).
+
+  He has held postdoctoral research positions at the [Institute for Biocomputation and Physics of Complex Systems](https://bifi.es/es/), University of Zaragoza, and at [University College London](https://www.ucl.ac.uk/), and has been awarded several competitive fellowships, including fellowships from the [Swiss National Science Foundation](https://www.snf.ch/en) and the [Juan de la Cierva programme](https://en.wikipedia.org/wiki/Juan_de_la_Cierva_Scholarship).
+
+  He is currently an Associate Professor at Universidad Carlos III de Madrid (Spain), in the Department of Mathematics. He currently serves as Vice-President of [Complexity Next Gen](https://complexitynextgen.org/), Founder and Director of [Complexity72h](https://www.complexitynextgen.org/), Secretary of the [Spanish Society of Complex Systems – CS³](https://cs3.es/), and President of the [Conference on Complex Systems Steering Committee](https://cssociety.org/ccs/steering-committee/).
