@@ -26,10 +26,10 @@ organizations:
 bio: 
 
 interests:
-  -Complex systems and network science
-  -Evolutionary game theory and cooperation
-  -Social norms and collective behaviour
-  -Mathematical and computational modelling
+ -Complex systems and network science
+ -Evolutionary game theory and cooperation
+ -Social norms and collective behaviour
+ -Mathematical and computational modelling
 
 
 # Social/Academic Networking
