@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Fernando Díaz
+title: Fernando Díaz-Díaz
 
 # Full name (for SEO)
 first_name: Fernando
-last_name: Díaz
+last_name: Díaz-Díaz
 
 # Username (this should match the folder name)
 authors:
@@ -25,10 +25,11 @@ organizations:
 bio: 
 
 interests:
-  - Write Something
-  - Write Something
-  - Write Something
-  - Write Something
+  - Mathematics of signed networks
+  - Spectral Graph Theory
+  - Discrete Laplacian operators
+  - Mathematic foundations of relational data science
+  - Quantitative analysis of social and geopolitical data
 
 
 # Social/Academic Networking
@@ -61,4 +62,6 @@ user_groups:
 
 ---
 
-Fernando Díaz... (write something) 
+ Fernando Diaz-Diaz earned his PhD in Physics of Complex Systems from the Institute for Cross-Disciplinary Physics and Complex Systems (IFISC) in 2025. During his doctoral studies, he undertook a research stay at the Mathematical Institute of the University of Oxford in 2024. He joined the Department of Applied Mathematics at Carlos III University of Madrid in September 2025, where he currently serves as an Assistant Professor within the Interdisciplinary Group of Complex Systems (GISC).
+ 
+  His research focuses on the structure and dynamics of networks characterized by both positive (cooperative) and negative (antagonistic) interactions. The work utilizes methods from network theory, linear algebra, and complexity science to analyze phenomena such as structural balance and faction formation. He also applies these mathematical results to real-world data in domains like social systems, international relations, and finance.
