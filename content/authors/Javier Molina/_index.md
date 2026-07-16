@@ -26,10 +26,9 @@ organizations:
 bio: 
 
 interests:
-  - Write Something
-  - Write Something
-  - Write Something
-  - Write Something
+  - Modelling of living systems.
+  - Evolution
+  - Antibiotics
 
 
 # Social/Academic Networking
@@ -62,4 +61,6 @@ user_groups:
 
 ---
 
-Javier Molina... (write something) 
+Javier Molina received a degree in mathematics from the Universidad Complutense de Madrid, followed by a master's degree in condensed matter physics and physics of biological systems from the Universidad Autónoma de Madrid.
+
+He is currently pursuing a PhD in antibiotic sequential therapies, combining modelling with experimentation.
