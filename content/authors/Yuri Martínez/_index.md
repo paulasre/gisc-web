@@ -62,4 +62,4 @@ user_groups:
 
 ---
 
-Yuri Martínez... (write something) 
+Yuri Martínez is currently a Full Professor at Universidad Carlos III de Madrid (Spain). His main research interest is the study of liquid-crystalline and colloidal fluids as well as granular media, using statistical physics theoretical models, Monte Carlo simulations, and experiments
