@@ -1,7 +1,7 @@
 ---
 title: 'Can the PageRank centrality be manipulated to obtain any desired ranking?'
 authors:
-- 'Gonzalo Contreras-Aso'
+- 'Gonzalo Contreras Aso'
 - 'Regino Criado'
 - 'Miguel Romance'
 date: '2023-08-01'
