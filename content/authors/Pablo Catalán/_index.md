@@ -62,4 +62,8 @@ user_groups:
 
 ---
 
-Pablo Catalán... (write something) 
+Pablo is a multidisciplinary researcher with degrees in Biology, Physics and Mathematics. He is interested in using quantitative methods to solve biological problems, in particular focusing on the evolution of antibiotic resistance.
+
+After earning his PhD in Mathematical Engineering from UC3M in 2017, Pablo won a Ramón Areces Postdoctoral Fellowship to work on antibiotic resistance at the University of Exeter under the supervision of Robert Beardmore, where he stayed for one year. In 2019 he returned to the Department of Mathematics at UC3M as an Assistant Professor and, since 2025, as Associate Professor.
+
+In his free time, Pablo practices Zen meditation.
