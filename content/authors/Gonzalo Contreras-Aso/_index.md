@@ -50,6 +50,6 @@ user_groups:
 
 ---
 
-  Gonzalo Contreras studied Physics at the Universidad Complutense de Madrid (2017), followed by a master in Theoretical Physics at the University of Amsterdam (2019). After a brief hiatus outside academia working in the programming sector, he earned a Ph.D. in Applied Mathematics at the Universidad Rey Juan Carlos (2025). He has also been a visiting researcher at the Scuola Superiore Meridionale of Naples, and at the Universidad de Chile. He is currently an Assistant Professor at Universidad Carlos III de Madrid.
+  Gonzalo studied Physics at the Universidad Complutense de Madrid (2017), followed by a master in Theoretical Physics at the University of Amsterdam (2019). After a brief hiatus outside academia working in the programming sector, he earned a Ph.D. in Applied Mathematics at the Universidad Rey Juan Carlos (2025). He has also been a visiting researcher at the Scuola Superiore Meridionale of Naples, and at the Universidad de Chile. He is currently an Assistant Professor at Universidad Carlos III de Madrid.
 
   His research started in structural aspects of complex network theory, mainly in relation to spectral centrality measures. Over time, he has also collaborated on projects related to dynamical aspects, such as chaotic synchronization. Nowadays, he is more interested in this latter part of his research, which involves topics such as nonlinear dynamics, with and without networks, pattern formation and statistical mechanics.
