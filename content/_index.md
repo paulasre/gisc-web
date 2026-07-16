@@ -68,7 +68,63 @@ sections:
         </div>
     design:
       columns: '1'
-  
+
+  - block: features
+    id: projects
+    content:
+      title: Research Lines
+      subtitle: Seven interconnected lines of inquiry, united by the language of complex systems.
+      items:
+        - icon: atom
+          icon_pack: fas
+          name: Statistical Mechanics & Nonlinear Dynamics
+          description: Phase transitions, pattern formation and the collective dynamics of systems driven far from equilibrium.
+
+        - icon: layer-group
+          icon_pack: fas
+          name: Materials Science & Nanostructures
+          description: Surface growth, thin films, interfaces and the emergence of order at the nanoscale.
+
+        - icon: tint
+          icon_pack: fas
+          name: Microfluidics & Fluid Adsorption on Structured Substrates
+          description: Wetting, capillarity and fluid adsorption on micro- and nano-structured substrates.
+
+        - icon: dna
+          icon_pack: fas
+          name: Evolution & Theoretical Ecology
+          description: Evolutionary dynamics, fitness landscapes and the mathematics of ecological systems.
+
+        - icon: project-diagram
+          icon_pack: fas
+          name: Socioeconomic Systems Dynamics & Game Theory
+          description: Agent-based models, social dynamics, network science and evolutionary game theory.
+
+        - icon: disease
+          icon_pack: fas
+          name: Theoretical Biology
+          description: Morphogenesis, biological pattern formation and quantitative models of living systems.
+
+        - icon: water
+          icon_pack: fas
+          name: Complex Fluids & Granular Media
+          description: Soft matter, liquid crystals, complex fluids and the physics of granular materials.
+
+  - block: collection
+    id: past-projects
+    content:
+      title: Funded Projects
+      subtitle:
+      text:
+      count: 5
+      offset: 0
+      order: desc
+      page_type: projects
+    design:
+      view: showcase
+      columns: '1'
+
+
   - block: contact
     id: contact
     content:
