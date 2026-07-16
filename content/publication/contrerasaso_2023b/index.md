@@ -1,7 +1,7 @@
 ---
 title: 'Detecting communities in higher-order networks by using their derivative graphs'
 authors:
-- 'Gonzalo Contreras-Aso'
+- 'Gonzalo Contreras Aso'
 - 'Regino Criado'
 - 'Guillermo Vera de Salas'
 - 'Jinling Yang'
