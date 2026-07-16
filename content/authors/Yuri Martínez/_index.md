@@ -26,10 +26,11 @@ organizations:
 bio: 
 
 interests:
-  - Write Something
-  - Write Something
-  - Write Something
-  - Write Something
+  - Phase transitions in liquid crystals under bulk conditions or under extreme confinement.
+  - Effect of particle aggregates on the symmetries of liquid-crystal fluids.
+  - Role of particle size polydispersity on the stacking phase sequences in sedimented complex fluids.
+  - Orientational symmetries of particles in vertically vibrated monolayers of anisotropic metallic grains.
+  - Topological defects of the orientational ordering field in granular monolayers confined in cavities with different symmetries.
 
 
 # Social/Academic Networking
