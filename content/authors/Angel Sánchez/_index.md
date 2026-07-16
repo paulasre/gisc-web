@@ -63,4 +63,3 @@ PhD in Theoretical Physics from Universidad Complutense de Madrid, he is Full Pr
 
 He has led 21 research projects funded by European, national, regional and private institutions, collaborated with companies including Repsol and Siemens-Gamesa, and co-founded Kampal Data Solutions. He is active in Open Science and Citizen Science, and serves in leading roles in the Complex Systems Society, Fundación COTEC and Fundación Sicómoro.
 
-Full info at (https://www.anxosanchez.eu).
