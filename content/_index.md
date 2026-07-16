@@ -69,7 +69,7 @@ sections:
     design:
       columns: '1'
 
- - block: features
+  - block: features
     id: projects
     content:
       title: Research Lines
@@ -109,19 +109,6 @@ sections:
           icon_pack: fas
           name: Complex Fluids & Granular Media
           description: Soft matter, liquid crystals, complex fluids and the physics of granular materials.
-  - block: collection
-    id: past-projects
-    content:
-      title: Funded Projects
-      subtitle:
-      text:
-      count: 5
-      offset: 0
-      order: desc
-      page_type: projects
-    design:
-      view: showcase
-      columns: '1'
 
 
   - block: contact
