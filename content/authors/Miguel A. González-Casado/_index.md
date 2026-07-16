@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Miguel A. Gonzalez-Casado
+title: Miguel A. González-Casado
 
 # Full name (for SEO)
 first_name: Miguel A. 
-last_name: Gonzalez-Casado
+last_name: González-Casado
 
 # Username (this should match the folder name)
 authors:
-  - Miguel A. Gonzalez-Casado
+  - Miguel A. González-Casado
 
 
 # Is this the primary user of the site?
