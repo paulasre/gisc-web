@@ -69,7 +69,7 @@ sections:
     design:
       columns: '1'
 
-    - block: features
+ - block: features
     id: projects
     content:
       title: Research Lines
