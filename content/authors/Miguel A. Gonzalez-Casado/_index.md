@@ -25,13 +25,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-  - Write Something
-  - Write Something
-  - Write Something
-  - Write Something
-
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -62,4 +55,12 @@ user_groups:
 
 ---
 
-Miguel Ángel... (write something) 
+Miguel is currently pursuing his Ph.D. at Carlos III University of Madrid
+under the supervision of Anxo Sánchez. His research focuses on
+understanding social dynamics by integrating insights from disciplines
+like Sociology, Anthropology, Mathematics, and Physics. His thesis
+explores the structure and dynamics of personal relationship networks
+through a combination of modeling and experimental approaches. He
+develops mathematical models and simulations based on data from real
+individuals to better understand the mechanisms behind the formation
+and evolution of social structures.
