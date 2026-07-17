@@ -26,10 +26,10 @@ organizations:
 bio: 
 
 interests:
-  - Write Something
-  - Write Something
-  - Write Something
-  - Write Something
+  - Scale invariance far from equilibrium
+  - Fluctuations in spatially extended systems
+  - Self-organized pattern formation
+  - Dynamics of surfaces and interfaces
 
 
 # Social/Academic Networking
@@ -62,4 +62,14 @@ user_groups:
 
 ---
 
-Rodolfo Cuerno... (write something) 
+Bachelor in Physics (Universidad Complutense de Madrid) and Ph.D. in Science (Universidad Autónoma de Madrid). Member of UC3M since 1996, after a 2-year postdoctoral stay in Boston University (USA). Full Professor since 2016. Mathematics Department head since 2026; vice-head 2008-2009. Person-in-charge for Grupo Interdisciplinar de Sistemas Complejos (GISC)-UC3M (2010-2016). Director for Ph.D. Program on Mathematical Engineering (2024-2026) and for Master's Degree in Computational and Applied Mathematics (2020-2026). 
+
+Research area: Statistical Mechanics, with a special focus on growth phenomena and non-equilibrium interfacial processes. Principal investigator for several national coordinated grants devoted to the experimental and theoretical study of surface and interface dynamics in various hard and soft condensed matter systems. 
+
+Advisor to 8 Ph.D. thesis. Member of the editorial boards of J Stat Mech Theory & Experiment (2004-2010) and of Entropy (Statistical Physics section, 2022-2026), and Review Editor of Mathematical Physics for Frontiers in Applied Mathematics and Statistics and Frontiers in Physics (2016-2022). Extraordinary Bachelor award (UCM, 1989). Young investigator award by Consejo Social UC3M (2011). Fellow of the Ion Beam Society of India.
+
+My research focuses on spatially extended systems far from equilibrium, studied through statistical mechanics and nonlinear science. I am particularly interested in the surfaces and interfaces that appear in hard condensed matter physics (e.g., nanostructures) and soft condensed matter physics (e.g., fluids or biological systems).
+
+These systems are typically described using continuous or discrete/atomistic models. The novel phenomena that emerge require new theoretical tools—or the generalization of existing ones—to determine the conditions governing the appearance of collective properties of interest, which are ultimately subject to experimental verification.
+
+Accordingly, I have formulated quantitative descriptions of specific interfacial systems, such as surface nanostructuring by ion bombardment and diffusion-limited aggregation growth, among others. I also work on novel systems and properties of general interest in complex systems and nonlinear science, such as generic scale invariance, coarsening, pattern formation, and related phenomena. For instance, I study time-evolution equations with and without noise terms, which provide paradigmatic models of self-organization processes far from equilibrium.
