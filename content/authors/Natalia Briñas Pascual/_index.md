@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Natalia Briñas
+title: Natalia Briñas Pascual
 
 # Full name (for SEO)
 first_name: Natalia
-last_name: Briñas
+last_name: Briñas Pascual
 
 # Username (this should match the folder name)
 authors:
