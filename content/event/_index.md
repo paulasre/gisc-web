@@ -3,6 +3,21 @@ title: Seminars
 type: landing
 
 sections:
+  - block: collection
+    id: seminars-2025
+    content:
+      title: Seminars 2025
+      filters:
+        folders:
+          - event
+        tags:
+          - "2025"
+      count: 20
+      order: desc
+    design:
+      view: compact
+      columns: '1'
+    
   - block: markdown
     id: seminars-calendar
     content:
