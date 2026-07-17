@@ -95,7 +95,7 @@ sections:
           name: Complex Fluids & Granular Media
           description: Soft matter, liquid crystals, complex fluids and the physics of granular materials.
 
-   - block: collection
+  - block: collection
     id: seminars
     content:
       title: Seminars
