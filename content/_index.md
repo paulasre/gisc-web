@@ -95,21 +95,23 @@ sections:
           name: Complex Fluids & Granular Media
           description: Soft matter, liquid crystals, complex fluids and the physics of granular materials.
 
-  - block: markdown
-    id: posts
+   - block: collection
+    id: seminars
     content:
       title: Seminars
-      subtitle: ''
-      text: |
-        <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%; overflow: hidden;">
-          <iframe
-            src="https://calendar.google.com/calendar/embed?src=ma8425dntgta1ajssm1p27ic50%40group.calendar.google.com&ctz=Europe%2FMadrid&mode=AGENDA"
-            style="border: 0; position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-            frameborder="0"
-            scrolling="no">
-          </iframe>
-        </div>
+      subtitle: GISC seminars held in 2026
+      count: 10
+      sort_by: Date
+      sort_ascending: false
+      filters:
+        folders:
+          - event
+      archive:
+        enable: true
+        text: See all seminars
+        link: event/
     design:
+      view: compact
       columns: '1'
     
   - block: contact
