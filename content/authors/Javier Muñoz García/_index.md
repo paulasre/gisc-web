@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Javier M. Muñoz
+title: Javier Muñoz García
 
 # Full name (for SEO)
-first_name: Javier M. 
-last_name: Muñoz
+first_name: Javier  
+last_name: Muñoz García
 
 # Username (this should match the folder name)
 authors:
-  - Javier M. 
+  - Javier 
 
 
 # Is this the primary user of the site?
