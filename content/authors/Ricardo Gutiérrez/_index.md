@@ -25,12 +25,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-  - Write Something
-  - Write Something
-  - Write Something
-  - Write Something
-
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -62,4 +56,8 @@ user_groups:
 
 ---
 
-Ricardo Gutiérrez... (write something) 
+Ricardo Gutiérrez is an Associate Professor at the Department of Mathematics of Universidad Carlos III de Madrid (UC3M) since 2022. He is also a member of GISC since 2019, when he joined UC3M as an Assistant Professor, after holding a similar position at Universidad Rey Juan Carlos (2017-2019). Previously, he had been a Marie-Sklodowska Curie Fellow at the University of Nottingham (2015-2017), and a Postdoctoral Fellow at the Weizmann Institute of Science (2013-2015), after finishing his PhD in the Physics of Complex Systems at Universidad Politécnica de Madrid (2013).
+
+His current research interests are related to collective dynamical phenomena that emerge in complex systems, including synchronization in ensembles of oscillators, critical dynamics, large deviations in stochastic and deterministic systems, and the dynamics of open quantum systems.
+
+
