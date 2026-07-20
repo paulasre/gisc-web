@@ -26,10 +26,9 @@ organizations:
 bio: 
 
 interests:
-  - Write Something
-  - Write Something
-  - Write Something
-  - Write Something
+  - Stochastic geometry
+  - Biological growth
+  - Quantum technologies, analysis of entanglement in quantum disordered systems.
 
 
 # Social/Academic Networking
@@ -62,4 +61,6 @@ user_groups:
 
 ---
 
-Silvia... (write something) 
+Silvia N. Santalla holds a degree in Physics from the Complutense University of Madrid (UCM), which she obtained in 1998. She earned her PhD in Theoretical and Mathematical Physics from the same university in 2008. From 2009 to the present, she has served as an assistant professor, visiting professor, and currently as a associate professor in the Department of Physics at UC3M.
+
+Currently, her research lies at the intersection of statistical physics, biophysics, and quantum technologies. In statistical physics, her main line of research focuses on the characterization of geodesics and isochrones in random metrics, such as real maps, using analytical and numerical tools, in collaboration with researchers from UC3M and UNED. In the field of biophysics, her work focuses on determining the universality class of interfaces in bacterial colonies and cell aggregates, in collaboration with the Autonomous University of Madrid (UAM) and the Federal University of Viçosa (Brazil). Her work in quantum technologies considers entanglement in disordered quantum systems or those with special topological properties, with applications to metrology and quantum computing, as well as the development of quantum geometry, in collaboration with researchers from the IFT (UAM-CSIC) and the Scuola Internazionale Superiore di Studi Avanzati (Trieste, Italy).
