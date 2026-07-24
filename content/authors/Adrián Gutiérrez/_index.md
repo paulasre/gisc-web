@@ -62,4 +62,6 @@ user_groups:
 
 ---
 
-Adrián Gutiérrez... (write something) 
+Adrián is a PhD student at Universidad Carlos III de Madrid, funded by an FPU fellowship from the Spanish Ministry of Universities. He holds a double Degree in Mathematics and Physics from Universidad Complutense de Madrid and a Master's in Computational and Applied Mathematics from Universidad Carlos III de Madrid.
+
+His PhD focuses on mathematical modeling of the microbiome, combining complex systems approaches with quantitative data to understand the dynamics of microbial communities and what can be learned from metagenomics data. His current work explores spatially explicit models of microbial communities, an approach that has so far received little attention. More broadly, his interests span mathematical biology, including theoretical ecology and population dynamics, with curiosity about other fields such as neuroscience and climate science
