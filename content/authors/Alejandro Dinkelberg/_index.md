@@ -26,10 +26,11 @@ organizations:
 bio: 
 
 interests:
-  - Write Something
-  - Write Something
-  - Write Something
-  - Write Something
+  - Complex systems and network science
+  - Social networks
+  - Opinion dynamics
+  - Computational social science
+  - Agent-based modelling
 
 
 # Social/Academic Networking
@@ -62,4 +63,6 @@ user_groups:
 
 ---
 
-Alejandro... (write something) 
+Alejandro Dinkelberg is an interdisciplinary researcher working at the intersection of network science and computational social science. He holds a PhD from the University of Limerick, where he studied the formation and fragmentation of social groups using network analysis, computational modelling, and identity concepts from social psychology. Before joining the MapCDPerNets team at Universidad Carlos III de Madrid, he worked as a postdoctoral researcher applying social network analysis and computational methods to criminal networks in Ireland.
+
+His research has a quantitative and interdisciplinary focus, lying at the nexus of real-world data, structural components such as networks, and social entities ranging from individuals and groups to entire societies. Currently, his work focuses on how social and cultural contexts shape the structure and dynamics of social systems, and vice versa. He draws on a plethora of data sources, including personal network data, governmental youth justice data, large-scale social media data, attitude surveys, and synthetic data generated through agent-based modelling, to study topics such as opinion dynamics, group formation, social cohesion, and cultural imprints in personal networks.
