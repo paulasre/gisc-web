@@ -6,7 +6,7 @@ sections:
   - block: collection
     id: seminars-2025
     content:
-      title: Seminars 2025
+      title: Seminars 2026
       filters:
         folders:
           - event
