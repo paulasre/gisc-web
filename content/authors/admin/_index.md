@@ -60,7 +60,6 @@ user_groups:
 
 The **Complex Systems Interdisciplinary Group (GISC)** is a team of over 20 researchers actively engaged in a wide variety of research topics in statistical mechanics, nonlinear dynamics, theoretical biology, evolution, social and economic systems, and game theory.
 
-\
 
 The current PI of GISC-UC3M is Pablo Catalán.
 
