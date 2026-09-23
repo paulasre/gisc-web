@@ -62,4 +62,7 @@ user_groups:
 
 ---
 
-Sara Ghivarello... (write something) 
+
+Sara Ghivarello is currently a PhD student at Carlos III de Madrid. Previously, she was a junior researcher at ISI, in Turin. She holds a double Master degree in Physics of Complex Systems from Politecnico di Torino and Sorbonne Université de Paris.
+Her current research combines evolutionary game theory and behavioral experiments to study how collective human behavior can drive environmental action.
+
